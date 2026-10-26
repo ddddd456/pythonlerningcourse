@@ -1,5 +1,4 @@
 ﻿import mysql.connector
-
 #1 создать подключение
 connection = mysql.connectior.connect(host='localhost',user='root',password='admin',database='academy')
 #2создать курсор
